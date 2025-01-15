@@ -14,4 +14,4 @@ Projekt ReactJS utworzony za pomocą [Vite](https://vite.dev/guide/), korzysta z
 
 Prezentacja komponentu udostępniona w YouTube
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/EtbfTBRzmWw)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ToRg6rqcxZU)
