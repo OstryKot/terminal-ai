@@ -4,7 +4,7 @@ Komponent dla ReactJS, terminal w stylu starego monitora CRT, który umożliwia 
 
 ### Instalacja
 
-Projekt ReactJS utworzony za pomocą [Vite](https://vite.dev/guide/), korzysta z [Tailwind](https://tailwindcss.com/.docs/guides/vite).
+Projekt ReactJS utworzony za pomocą [Vite](https://vite.dev/guide/), korzysta z [Tailwind](https://tailwindcss.com/docs/guides/vite).
 
 
 
